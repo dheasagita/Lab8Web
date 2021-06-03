@@ -28,10 +28,13 @@ Membuat Index.php
 Membuat File Tambah.php
 ![7](https://user-images.githubusercontent.com/81453793/120645158-4cf80200-c4a2-11eb-93f3-5f5285d60c9d.jpg)
 
+Hasilnya akan seperti ini
 ![8](https://user-images.githubusercontent.com/81453793/120645169-4ec1c580-c4a2-11eb-9efa-54b53552751b.jpg)
 ![9](https://user-images.githubusercontent.com/81453793/120645179-51bcb600-c4a2-11eb-9c98-0be3b0c86757.jpg)
 ![10](https://user-images.githubusercontent.com/81453793/120645182-541f1000-c4a2-11eb-8390-38ed37c4fe2f.jpg)
 ![11](https://user-images.githubusercontent.com/81453793/120645188-55503d00-c4a2-11eb-8524-5513aad0793c.jpg)
+ 
+ Membuat File ubah.php
 ![12](https://user-images.githubusercontent.com/81453793/120645196-57b29700-c4a2-11eb-80fe-aa649edfffb8.jpg)
 ![13](https://user-images.githubusercontent.com/81453793/120645205-5aad8780-c4a2-11eb-8f39-f35ceeade033.jpg)
 ![14](https://user-images.githubusercontent.com/81453793/120645212-5d0fe180-c4a2-11eb-8d8c-5cf96198504f.jpg)
