@@ -13,15 +13,21 @@
 ## Menambahkan Data
 ![3](https://user-images.githubusercontent.com/81453793/120645104-3fdb1300-c4a2-11eb-921e-5026f255129e.jpg)
 
-# Membuat Program CRUD
 ![4](https://user-images.githubusercontent.com/81453793/120645110-41a4d680-c4a2-11eb-9f25-b6aab72fdb12.jpg)
 
-Membuat File Index.php
+# Membuat Program CRUD
+Membuat File koneksi.php
+![19](https://user-images.githubusercontent.com/81453793/120646539-d52ad700-c4a3-11eb-9d20-87d9b3f9ea91.jpg)
+
+Membuat Index.php
 ![5](https://user-images.githubusercontent.com/81453793/120645130-46698a80-c4a2-11eb-9973-f3ca77e598ee.jpg)
 
 ## Tambahkan CSS & hasilnya seperti ini
 ![6](https://user-images.githubusercontent.com/81453793/120645148-4a95a800-c4a2-11eb-99c6-2e486b4cbe36.jpg)
+
+Membuat File Tambah.php
 ![7](https://user-images.githubusercontent.com/81453793/120645158-4cf80200-c4a2-11eb-93f3-5f5285d60c9d.jpg)
+
 ![8](https://user-images.githubusercontent.com/81453793/120645169-4ec1c580-c4a2-11eb-9efa-54b53552751b.jpg)
 ![9](https://user-images.githubusercontent.com/81453793/120645179-51bcb600-c4a2-11eb-9c98-0be3b0c86757.jpg)
 ![10](https://user-images.githubusercontent.com/81453793/120645182-541f1000-c4a2-11eb-8390-38ed37c4fe2f.jpg)
